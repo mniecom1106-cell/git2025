@@ -1,2 +1,2 @@
-print("hello word fali gitano")
+print("hello word")
 
